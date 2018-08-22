@@ -1,0 +1,192 @@
+code,Explication
+SE005,Dimension conomique
+SE010,Total main d'oeuvre
+SE011,Main d'oeuvre
+SE015,Main d'oeuvre non-salarie
+SE016,Main d'oeuvre non-salarie
+SE020,Main d'oeuvre salarie
+SE021,Main d'oeuvre salarie
+SE022,Share of OGA work /AWU
+SE022D,AWU
+SE022N,Share of OGA work
+SE025,Total Superficie Agricole Utilise
+SE030,SAU en fermage
+SE035,crales
+SE041,autres cultures de plein champ
+SE042,cultures nergtiques
+SE046,fleurs et lgumes
+SE050,vignes
+SE054,cultures permanentes
+SE055,arboriculture fruitire
+SE060,oliveraies
+SE065,autres cultures permanentes
+SE071,cultures fourragres
+SE072,jachre agronomique
+SE073,terres geles
+SE074,Surface agricole totale hors production
+SE075,forts
+SE080,Total cheptel
+SE085,vaches laitires
+SE086,Dairy cows
+SE087,Buffalo dairy cows
+SE090,autres bovins
+SE095,ovins et caprins
+SE100,porcs
+SE105,volailles
+SE110,Rendement bl
+SE110D,Bl
+SE110N,Bl
+SE115,Rendement mas
+SE115D,Mas
+SE115N,Mas
+SE120,Taux de chargement
+SE120D,SAU fourragre
+SE120N,UB herbivores
+SE125,Rendement laitier
+SE125D,vaches laitires
+SE125N,produits laitiers
+SE126,Milk yield cattle dairy cows
+SE126D,Cattle dairy cows
+SE126N,Cattle dairy products
+SE127,Milk yield buffalo dairy cows
+SE127D,buffalo dairy cows
+SE127N,Buffalo dairy cows product
+SE131,Total produit brut
+SE132,Total output / Total input
+SE132D,Total input
+SE132N,Total output
+SE135,Total produit brut vgtal
+SE136,Total crops output / ha
+SE136D,ha
+SE136N,Total crops output
+SE140,crales
+SE145,protagineux
+SE146,cultures nergtiques
+SE150,pommes de terre
+SE155,betteraves sucrires
+SE160,olagineux
+SE165,plantes industrielles
+SE170,lgumes et fleurs
+SE175,fruits
+SE180,agrumes
+SE185,vin et raisins de table
+SE190,olives et huile d'olive
+SE195,cultures fourragres
+SE200,autre produit vgtal
+SE206,Total produit animal
+SE207,Total livestock output / LU
+SE207D,LU
+SE207N,Total livestock output
+SE211,variation d'inventaire du btail
+SE216,lait de vache & produits laitiers
+SE220,viande bovine
+SE225,viande porcine
+SE230,viande ovine et caprine
+SE235,viande de volaille
+SE240,oeufs
+SE245,lait de brebis et chvre
+SE251,autre produit animal
+SE256,autre produit brut
+SE260,auto-consommation
+SE265,auto-utilisation
+SE270,Total des charges
+SE275,Total consommation intermdiaire
+SE281,Total frais spcifiques
+SE284,Specific crop costs / ha
+SE284D,ha
+SE284N,Specific crop costs
+SE285,semences et plants
+SE290,semences et plants auto-utiliss
+SE295,engrais
+SE296,Fertiliser N
+SE297,Fertiliser P2O5
+SE298,Fertiliser K2O
+SE300,protection des cultures
+SE305,autres frais spcifiques des cultures
+SE309,Specific livestock costs / LU
+SE309D,LU
+SE309N,Specific livestock output
+SE310,aliments pour herbivores
+SE315,aliments pour herbivores auto-utiliss
+SE320,aliments pour granivores
+SE325,aliments pour granivores auto-utiliss
+SE330,autres frais spcifiques d'levage
+SE331,frais spcifiques fort
+SE336,Total frais gnraux
+SE340,entretien btiments & matriel
+SE345,nergie
+SE350,travaux par tiers
+SE356,autres frais non-spcifiques
+SE360,Amortissements
+SE365,Total facteurs externes
+SE370,salaires pays
+SE375,fermage pay
+SE380,intrts pays
+SE381,Balance of interest paid and received
+SE390,Impts & taxes
+SE395,TVA sauf sur investissements
+SE405,Solde subventions & taxes sur investissements
+SE406,Subventions sur investissement
+SE407,Primes  la cessation laitire
+SE408,TVA sur investissements
+SE410,Revenu Brut d'Exploitation
+SE415,Valeur Ajoute Nette d'Exploitation
+SE420,Revenu Net d'Exploitation
+SE425,Valeur Ajoute Nette / UTA
+SE425D,UTA
+SE425N,Valeur Ajoute Nette
+SE430,Revenu d'Exploitation Familial / UTF
+SE430D,UTF
+SE430N,Revenu d'Expl. Familial
+SE436,Total capitaux
+SE437,"Total assets, opening valuation"
+SE441,Total capitaux fixes
+SE446,"terres, cultures permanentes & quotas"
+SE450,batiments
+SE455,matriel
+SE460,cheptel reproducteur
+SE465,Total capitaux variables
+SE470,cheptel non-reproducteur
+SE475,stocks de produits agricoles
+SE476,Inventories
+SE480,autre capital circulant
+SE485,Total endettement
+SE490,emprunts  long & moyen terme
+SE495,emprunts  court terme
+SE501,Fonds propres
+SE506,Variation des fonds propres
+SE510,Capital d'exploitation moyen
+SE516,Investissements bruts
+SE521,Investissements nets
+SE526,Marge Brute d'Autofinancement (1)
+SE530,Marge Brute d'Autofinancement (2)
+SE532,Cash flow / farm total capital
+SE532D,Farm total capital
+SE532N,Cash flow
+SE600,Solde subventions d'exploitation & taxes
+SE605,Total subventions d'exploitation
+SE610,Total subventions aux cultures
+SE611,paiements compensatoires/ l'hectare
+SE612,prime au gel
+SE613,autres subventions aux cultures
+SE615,Total subventions aux productions animales
+SE616,subventions  la production laitire
+SE617,subventions autres productions bovines
+SE618,subventions production ovine / caprine
+SE619,autres subventions aux productions animales
+SE620,Obsolete
+SE621,subventions environnementales
+SE622,subvention zones dfavorises
+SE623,autres subventions dveloppement rural
+SE624,Aide totale pour le dveloppement rural
+SE625,subventions sur consommation intermdiaire
+SE626,subventions aux facteurs extrieurs
+SE630,Paiements dcoupls
+SE631,paiement unique  l'exploitation
+SE632,paiement unique  la surface
+SE640,montant supplmentaire
+SE650,Aides_Art68
+SE699,Autres subventions
+SYS02,Exploitations reprsentes
+SYS03,Exploitations dans l'chantillon
+SYS04,Taux de change
